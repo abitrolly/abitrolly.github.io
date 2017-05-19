@@ -3,6 +3,6 @@
 
 |![](https://imgs.xkcd.com/comics/automation.png)|
 |:--:|
-|https://xkcd.com/1319/|
+|[https://xkcd.com/1319/](https://xkcd.com/1319/)|
 
-* open source: https://github.com/abitrolly
+* [GitHub](https://github.com/abitrolly)
