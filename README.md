@@ -7,5 +7,7 @@
 
 * [GitHub](https://github.com/abitrolly)
 ---
-* [KuCoin](https://www.kucoin.com/#/?r=NfPxNQ)
-* [DEEX](https://presale.deex.exchange/?ref=114477)
+Referral/affiliate support links:
+
+* [KuCoin](https://www.kucoin.com/#/?r=NfPxNQ) ([info](https://www.youtube.com/watch?v=WXNrTcv9-cg))
+* [DEEX](https://presale.deex.exchange/?ref=114477) (no info)
