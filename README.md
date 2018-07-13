@@ -1,3 +1,6 @@
+* GitHub: https://github.com/abitrolly
+* Freelancer: https://www.freelancer.com/get/abitrolly
+
 * [better.json](better.json) - how do I make the world better
 * [perks.json](perks.json) - these come bundled
 
@@ -5,9 +8,7 @@
 |:--:|
 |[https://xkcd.com/1319/](https://xkcd.com/1319/)|
 
-* [GitHub](https://github.com/abitrolly)
 ---
-Referral/affiliate support links:
 
+(shady web-sites that claim to give bonuses)
 * [KuCoin](https://www.kucoin.com/#/?r=NfPxNQ) ([info](https://www.youtube.com/watch?v=WXNrTcv9-cg))
-* [DEEX](https://presale.deex.exchange/?ref=114477) (no info)
