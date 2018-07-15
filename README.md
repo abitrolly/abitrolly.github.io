@@ -9,8 +9,3 @@
 |![](https://imgs.xkcd.com/comics/automation.png)|
 |:--:|
 |[https://xkcd.com/1319/](https://xkcd.com/1319/)|
-
----
-
-(shady web-sites that claim to give bonuses)
-* [KuCoin](https://www.kucoin.com/#/?r=NfPxNQ) ([info](https://www.youtube.com/watch?v=WXNrTcv9-cg))
