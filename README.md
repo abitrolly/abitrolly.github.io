@@ -1,5 +1,5 @@
-* GitHub: https://github.com/abitrolly
-* Freelancer: https://www.freelancer.com/get/abitrolly
+* GitHub: [https://github.com/abitrolly](https://github.com/abitrolly)
+* Freelancer: [https://www.freelancer.com/get/abitrolly](https://www.freelancer.com/get/abitrolly)
 
 ---
 
