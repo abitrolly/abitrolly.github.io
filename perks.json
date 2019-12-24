@@ -1,8 +1,29 @@
 {
   "services": [
-    "GitHub ninja",
-    "Netlify adept",
-    "AppVeyor abuser",
-    "Travis CI zombie"
+    "GitHub",
+    "GitLab",
+    "BitBucket",
+    
+    "Netlify",
+    "AppVeyor",
+    "Travis CI",
+    "Cirrus CI",
+    
+    "DockerHub",
+    "Snap Store",
+    
+    "Heroku",
+    "Scaleway"
+  ],
+  
+  "tools": [
+    "Ansible",
+    "Terraform",
+    
+    "Bash",
+    "Go",
+    "Python",
+    
+    "Vim"
   ]
 }
