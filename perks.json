@@ -3,6 +3,8 @@
     "GitHub",
     "GitLab",
     "BitBucket",
+    "GCP",
+    "AWS",
     
     "Netlify",
     "AppVeyor",
@@ -19,6 +21,9 @@
   "tools": [
     "Ansible",
     "Terraform",
+    "Vagrant",
+    "Docker",
+    "Kubernetes",
     
     "Bash",
     "Go",
