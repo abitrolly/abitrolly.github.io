@@ -8,5 +8,14 @@
       "backed": "0 days"
     }
   }
+],
+"patches": [
+  {
+    "url": "https://github.com/heroku/heroku-buildpack-go/pull/411",
+    "desc": "teach heroku and scalingo builder to understand go.mod go version",
+    "time": {
+      "spent": "7+ days",
+      "backed": "0 days"
+  }
 ]
 }
