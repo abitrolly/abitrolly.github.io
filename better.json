@@ -17,6 +17,17 @@
       "spent": "7+ days",
       "backed": "0 days"
     }
-  }
+  },
+  {
+    "url": "https://github.com/facebook/prophet/pull/2190",
+    "desc": "simplify wheels building workflow for prophet",
+    "time": {
+      "spent": "3+ days",
+      "backed": "0 days"
+    },
+    "credits": [
+      "https://github.com/facebook/prophet/releases/tag/v1.1"
+    ]
+  }  
 ]
 }
