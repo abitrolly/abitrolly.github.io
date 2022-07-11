@@ -28,6 +28,16 @@
     "credits": [
       "https://github.com/facebook/prophet/releases/tag/v1.1"
     ]
-  }  
+  },
+  {
+    "url": "https://github.com/mindsdb/mindsdb/pull/2295",
+    "desc": "parametrize docker image building for mindsdb",
+    "time": {
+      "spent": "7+ days",
+      "backed": "0 days"
+    },
+    "credits": [
+    ]
+  }
 ]
 }
